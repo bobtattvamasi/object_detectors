@@ -1,0 +1,10 @@
+modules/cpp_trt_object_detector/configs/yolov3.cfg
+modules/cpp_trt_object_detector/configs/yolov3.weights
+modules/cpp_trt_object_detector/configs/yolov3-kFLOAT.engine
+modules/cpp_trt_object_detector/configs/dog.jpg
+
+modules/tf_object_detector/data/darknet_weights/
+
+modules/trt_object_detector/from_onnx_to_tensorrt/yolov3-416.onnx
+
+modules_helper/deep_sort_tracker_helper/model_data/mars-small128.pb
