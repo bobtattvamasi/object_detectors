@@ -1,3 +1,5 @@
+![rainy](https://www.thepythoncode.com/media/articles/yolo-object-detection-with-opencv-and-pytorch-in-python/real-time-object-detect_Tq3j7sJ.gif)
+
 Перед тем как запускать - собери либу pydetector для cpp_trt внутри modules/cpp_trt_object_detector<br/>
 
 mkdir build<br/>
